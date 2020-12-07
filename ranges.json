@@ -1,0 +1,14 @@
+{
+	"AddressesRange": {
+		"Test Subnet 1": {
+			"Name": "Test Subnet 1",
+			"IPStart": "172.16.1.2",
+			"IPEnd": "172.16.1.254"
+		},
+		"Test Subnet 2": {
+			"Name": "Test Subnet 2",
+			"IPStart": "10.100.0.10",
+			"IPEnd": "10.100.1.254"
+		}
+	}
+}
