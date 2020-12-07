@@ -1,0 +1,17 @@
+{
+	"AddressGroups": [
+		{
+			"Name": "Test Grp 1",
+			"MemberList": [
+				"Test Subnet 1",
+				"Test Subnet 2"
+			]
+		},
+		{
+			"Name": "Test Grp 2",
+			"MemberList": [
+				"Test Subnet 2"
+			]
+		}
+	]
+}
